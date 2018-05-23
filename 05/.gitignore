@@ -1,0 +1,9 @@
+build_gcc2/
+build_gdb/
+gcc-7.3.0-RC-20180122/
+gdb-8.1/
+remote_debug.pdf
+test.exe
+test_g.exe
+test_static.exe
+test_static_g.exe
