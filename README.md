@@ -11,3 +11,6 @@ Slave: Raspberry Pi 3 Model B
 2.	Cross GDB
 3.	Build Linux for Raspberry Pi with [Buildroot](https://buildroot.org/)
 4.	System Call
+5.	Remote Debugging
+6.	Device drivers
+7.	Device drivers and GPIO
