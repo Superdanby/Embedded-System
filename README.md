@@ -15,3 +15,4 @@
 6.	Device drivers
 7.	Device drivers and GPIO
 8.	Human detection with OpenCV
+9.	Car License Recognition System
