@@ -2,8 +2,8 @@
 
 ## Environment
 
-Host: Fedora 27, Fedora 28
-Slave: Raspberry Pi 3 Model B
+-	Host: Fedora 27, Fedora 28
+-	Slave: Raspberry Pi 3 Model B
 
 ## Table of Contents
 
