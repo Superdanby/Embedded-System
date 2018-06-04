@@ -14,3 +14,4 @@
 5.	Remote Debugging
 6.	Device drivers
 7.	Device drivers and GPIO
+8.	Human detection with OpenCV
