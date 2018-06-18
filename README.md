@@ -16,3 +16,4 @@
 7.	Device drivers and GPIO
 8.	Human detection with OpenCV
 9.	Car License Recognition System
+10.	Alarm Clock
